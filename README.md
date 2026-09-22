@@ -4,6 +4,8 @@
 
 > **ALPHA** - this is an early version. It works for the author, but expect rough edges and changes. Bug reports are welcome.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases)
+
 > An offline clone of the "what beats rock" game - a local AI model is the referee.
 
 Start with *Stone*. Type something that beats it. A local [Ollama](https://ollama.com) model decides whether it counts - if it does, your word becomes the new thing and your score goes up. Words you already used are banned; a weak or nonsense answer ends the game. No internet, no account.
@@ -26,6 +28,8 @@ New to this? Follow **[SETUP-HELP.md](SETUP-HELP.md)** - it walks you through in
 ## Good to know
 
 - A 7B model is sometimes generous ("scissors beat rock"), just like the real game - the fun is keeping the chain alive without repeating a word. A bigger model judges stricter.
+
+![preview](what-beats-stone.png)
 
 ---
 
