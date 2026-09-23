@@ -13,6 +13,7 @@
 ---
 
 > **ALPHA** - this is an early version. It works for the author, but expect rough edges and changes. Bug reports are welcome.
+
 Start with *Stone*. Type something that beats it. A local [Ollama](https://ollama.com) model decides whether it counts - if it does, your word becomes the new thing and your score goes up. Words you already used are banned; a weak or nonsense answer ends the game. No internet, no account.
 
 This is an unofficial fan project and has nothing to do with the original website.
